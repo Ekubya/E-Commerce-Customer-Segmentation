@@ -1,6 +1,6 @@
 # E-Commerce Customer Segmentation & RFM Analysis 📊
 
-![Dashboard Önizleme](E-commerce Customer Segmentation and RFM Analysis Dashboard.png)
+![Dashboard Önizleme](E-commerce_Customer_Segmentation_and_RFM_Analysis_Dashboard.png)
 
 ## 📌 Project Overview
 As an Industrial Engineering student, I analyzed a dataset of 500,000+ e-commerce transactions to solve a critical business problem: **Understanding customer retention and maximizing revenue through segmentation.**
