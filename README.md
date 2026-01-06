@@ -30,4 +30,4 @@ The company faced challenges in identifying:
 *  E-commerce Customer Segmentation and RFM Analysis Dashboard.png : Snapshot of the final dashboard.
 
 ---
-*Author: Aybüke Altunbey | Industrial Engineering Graduate Candidate
+*Author: Aybüke Altunbey
